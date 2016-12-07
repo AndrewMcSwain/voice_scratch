@@ -2,43 +2,42 @@
 <link href='css/styles.css' rel='stylesheet' type='text/css'>
 </head>
 
-<section>
   <div id="topfold" class="chapter container" >
       <h1> Voice</h1>
       <p class="subheading"> Find Yours. </p>
       <p class="body"> Aulas de Ingles</p>
-      <p class="body">Para Desenvolver Sua Expressividade</p>
+      <p class="body-2">para desenvolver sua expressividade</p>
   </div>
-</section>
-<section id="about" class="chapter container">
-  <div class="row">
-      <div class="col dark">
-	  <h2>Aulas de Ingles</h2>
-	  <p>Nossa agencia fornece Professores Nativos para suas aulas in-company. Alem de ser nativos, sao bons professores. Aplicamos um criterio exigente no processo seletivo e (put each one through) um treinamento rigoroso para garantir que cada aula dada eh excellente. </p><br>
-	  <p>O aluno Fica 99% do tempo falando ou escutando Ingles</p>
+<section id="about">
+  <div class="chapter container sobre">
+	  <h2>Sobre Nos</h2>
+	  <p>Nossa agencia fornece Professores Nativos para suas aulas in-company. </p><br>
+	  <div class="image-frame">
+	    <img src="writing.jpg"></img>
+	  </div>
+	  <p>Alem de ser nativos, escolhemos professores que sao engajantes, bem articulados e profissionais</p><br>
+	 <p>Aplicamos um criterio exigente no processo seletivo. Cada pr	ofessor passa por um treinamento rigoroso a fim de garantir que cada aula dada seja excelente. </p><br>
+	  <p class="closer">O aluno Fica 99% do tempo falando ou escutando Ingles</p>
       </div>
   </div>
-</section>
-<section >
   <div id="professores" class="chapter container">
       <h2>Conhece Nossos Professores</h2>
       <p> *Insert Photo Caroussel here*</p>
   </div>  
-</section>
-<section> 
   <div id="Metodo" class="chapter container">
       <h2> Programacao Engajante</h2>
-      <p> Estimulamos o aluno a usar o Ingles de forma dinamica, para resolver conflitos, solucionar problemas e expressar ideias originais</p>
+      <p> Estimulamos o aluno a usar o Ingles de forma dinamica, para resolver conflitos, solucionar problemas e expressar ideias originais</p
+      <p> put reason for this</p>
     </div>
   </div>    
   <div class="chapter container">
       <h2>Plano de Aula Personalizado</h2>
-      <p>Levantamos um perfil detalhado do aluno para garantir um encaixe entre oa luno, suas necessidades e a apresentacao do professor</p>
+      <p>Levantamos um perfil detalhado do aluno para garantir um encaixe certinho entre o aluno, suas necessidades e a apresentacao do professor</p>
     </div>
   </div>
   <div class="chapter container">
       <h2>Atendimento Exclusivo</h2>
-      <p>Tenha um especialista de Aprendizado para guiar e orientar seus estudos</p>
+      <p>Tenha um especialista em aprendizado para guiar e orientar seus estudos</p>
     </div>
   </div>
   <div class="chapter container">
@@ -46,13 +45,10 @@
       <p>Para voce ver passo a passo o seu desenvolvimento em Ingles</p>
     </div>
   </div>
-</section>
-<section id="closer" class="container">
   <div class="chapter container">
       <h2>Nosso sucesso depende do seu.</h2>
-      <p>Sucesso para nos eh quando voce consegue falar deforma que representa su apessoa e suas ieias de forma disinguida e impactante.</p><br>
+      <p>Sucesso para nos eh quando voce consegue expressar de forma disinguida  sua pessoa e suas ideias, a fim de gerar um impacto na sua audiencia.<p><br>
       <p> Buscamos ajudar voce a achar a sua propria 'voz.'</p>
     </div>
   </div>
-</section>
 

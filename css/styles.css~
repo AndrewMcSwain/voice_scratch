@@ -1,0 +1,38 @@
+html {
+  margin: 0 auto; }
+
+body {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0 auto;
+  font-size: 0; }
+  body:after {
+    content: " ";
+    display: block;
+    clear: both; }
+
+body .container {
+  display: block;
+  float: left;
+  width: 100%; }
+
+.chapter {
+  font-size: 20px;
+  height: 10em; }
+  .chapter:nth-of-type(odd) {
+    background-color: white;
+    box-shadow: 5px 5px 5px 10px rgba(0, 0, 0, 0.7); }
+  .chapter:nth-of-type(even) {
+    background-color: red;
+    box-shadow: inset 5px 5px 5px 10px rgba(0, 0, 0, 0.7); }
+
+.topfold {
+  @span; }
+
+#topfold h1 h2 h3 p {
+  width: 23.72881%;
+  float: left;
+  margin-right: 1.69492%; }
+
+/*# sourceMappingURL=styles.css.map */
