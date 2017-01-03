@@ -1,0 +1,68 @@
+@import 'susy';
+
+html{
+margin: 0 auto;
+}
+
+body{
+@include container;
+margin: 0 auto;
+font-size: 0;
+}
+
+body .container{
+  display: block;
+  float: left;
+  width: 100%;
+}
+
+
+//GLOBAL SETTINGS
+$background-color: rgb(255,255,255); 
+$background-color-inverse: adjust-color($background-color, $hue: 5%, $saturation: 15%, $lightness: 15%);
+//alto-relevo
+.chapter{
+  font-size: 20px;
+  height: 10em;
+  &:nth-of-type(odd){
+    background-color: $background-color;
+    box-shadow: 5px 5px 5px 10px rgba(0,0,0,.7);
+}
+  &:nth-of-type(even){
+    background-color: red; 
+    box-shadow: inset 5px 5px 5px 10px rgba(0,0,0,.7); 
+   }
+
+}
+
+
+//inset
+.topfold{
+@span 
+}
+
+//horizontal alignment
+#topfold h1 h2 h3 p{
+  @include span(3 of 12); 
+}
+
+#topfold > h1 {
+
+}
+
+#topfold > .body, #topfold > .body{
+
+}
+
+
+
+
+
+.sobre{
+
+}
+
+.professores{
+
+}
+
