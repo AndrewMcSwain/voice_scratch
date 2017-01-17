@@ -23,20 +23,20 @@
 	 <h2> Como é a aula? 
        <p class="closer">O aluno Fica 99% do tempo falando ou escutando Ingles</p>
   </div>
-
+  <div id="programacao" class="chapter container">
+      <h2> Programacao Engajante</h2>
+      <p> Estimulamos o aluno a usar o Ingles de forma dinamica, para resolver conflitos, solucionar problemas e expressar ideias originais</p
+      <p> put reason for this</p>
+    </div>
+  </div>    
+ 
   <div id="professores" class="chapter container">
       <h2>Conhece Nossos Professores</h2>
       <p> *Insert Photo Caroussel here*</p>
   </div>  
 
 
-  <div id="Metodo" class="chapter container">
-      <h2> Programacao Engajante</h2>
-      <p> Estimulamos o aluno a usar o Ingles de forma dinamica, para resolver conflitos, solucionar problemas e expressar ideias originais</p
-      <p> put reason for this</p>
-    </div>
-  </div>    
-  <div class="chapter container">
+ <div class="chapter container">
       <h2>Plano de Aula Personalizado</h2>
       <p>Levantamos um perfil detalhado do aluno para garantir um encaixe certinho entre o aluno, suas necessidades e a apresentacao do professor</p>
     </div>
